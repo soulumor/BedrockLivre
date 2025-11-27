@@ -1,0 +1,31 @@
+﻿========================================
+   BEDROCK LIVRE - Por SouLumor
+========================================
+
+INSTRUCOES DE INSTALACAO:
+
+1. Execute BedrockLivre.exe como Administrador
+   (Clique com botao direito > Executar como administrador)
+
+3. Execute BedrockLivre.exe para abrir o programa
+
+4. Clique no botao "iniciar" na interface
+
+5. Abra o Minecraft normalmente
+
+6. renicie o minecratt depois da primeira instalacao pra carregar o desbloqueio.
+
+
+BOM USO.
+
+REQUISITOS:
+- Windows 10/11
+- Minecraft Bedrock Edition instalado
+- Visual C++ Redistributable (geralmente ja instalado)
+
+SUPORTE:
+- GitHub: https://github.com/soulumor
+- YouTube: https://www.youtube.com/@soul%C3%BAmor
+- Discord: https://discordapp.com/users/sou_lumor
+
+Versao: 1.0

@@ -1,6 +1,22 @@
-# Bedrock Livre v1.0
+<div align="center">
 
-Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
+# 🎮 Bedrock Livre
+
+### Desbloqueador para Minecraft Bedrock Edition
+
+![Version](https://img.shields.io/badge/version-1.0-blue.svg)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
+![License](https://img.shields.io/badge/license-Educational-red.svg)
+![Status](https://img.shields.io/badge/status-active-success.svg)
+
+**Desenvolvido por [SouLumor](https://github.com/soulumor)**
+
+[![GitHub stars](https://img.shields.io/github/stars/soulumor/BedrockLivre.svg?style=social&label=Star)](https://github.com/soulumor/BedrockLivre)
+[![GitHub forks](https://img.shields.io/github/forks/soulumor/BedrockLivre.svg?style=social&label=Fork)](https://github.com/soulumor/BedrockLivre/fork)
+
+---
+
+</div>
 
 ## 📸 Screenshot
 
@@ -8,6 +24,8 @@ Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
   <img src="screenshot.png" alt="Interface do Bedrock Livre" width="800"/>
   <p><em>Interface principal do Bedrock Livre - Desbloqueador para Minecraft Bedrock Edition</em></p>
 </div>
+
+---
 
 ## ⚠️ IMPORTANTE - EXECUTE COMO ADMINISTRADOR
 
@@ -65,11 +83,15 @@ Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
 
 ## 👤 Autor
 
+<div align="center">
+
 **SouLumor**
 
-- GitHub: [@soulumor](https://github.com/soulumor)
-- YouTube: [@soulumor](https://www.youtube.com/@soul%C3%BAmor)
-- Discord: sou_lumor
+[![GitHub](https://img.shields.io/badge/GitHub-@soulumor-181717?style=for-the-badge&logo=github)](https://github.com/soulumor)
+[![YouTube](https://img.shields.io/badge/YouTube-@soulumor-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@soul%C3%BAmor)
+[![Discord](https://img.shields.io/badge/Discord-sou__lumor-5865F2?style=for-the-badge&logo=discord)](https://discordapp.com/users/sou_lumor)
+
+</div>
 
 ## ⚠️ Aviso Legal
 
@@ -81,5 +103,11 @@ Este software é fornecido apenas para fins educacionais. Use por sua própria c
 
 ---
 
+<div align="center">
+
 **Desenvolvido com ❤️ por SouLumor**
+
+⭐ Se este projeto te ajudou, considere dar uma estrela! ⭐
+
+</div>
 

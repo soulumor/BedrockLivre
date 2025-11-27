@@ -1,8 +1,22 @@
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="100">
+  <img src="assets/608ae0f8fd644485407d780cb6abce448e079e8c.png" alt="Controle" width="60"/>
+</td>
+<td align="center">
+
 # 🎮 Bedrock Livre
 
 ### Desbloqueador para Minecraft Bedrock Edition
+
+</td>
+<td align="center" width="100">
+  <img src="assets/608ae0f8fd644485407d780cb6abce448e079e8c.png" alt="Controle" width="60"/>
+</td>
+</tr>
+</table>
 
 ![Version](https://img.shields.io/badge/version-1.0-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)

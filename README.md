@@ -7,7 +7,7 @@
 </td>
 <td align="center">
 
-# 🎮 Bedrock Livre
+# Bedrock Livre
 
 ### Desbloqueador para Minecraft Bedrock Edition
 

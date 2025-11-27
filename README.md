@@ -2,6 +2,13 @@
 
 Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
 
+## 📸 Screenshot
+
+<div align="center">
+  <img src="screenshot.png" alt="Interface do Bedrock Livre" width="800"/>
+  <p><em>Interface principal do Bedrock Livre - Desbloqueador para Minecraft Bedrock Edition</em></p>
+</div>
+
 ## ⚠️ IMPORTANTE - EXECUTE COMO ADMINISTRADOR
 
 **TANTO O `BedrockLivre.exe` QUANTO O `INSTALAR_AGORA.bat` DEVEM SER EXECUTADOS COMO ADMINISTRADOR!**

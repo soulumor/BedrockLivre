@@ -2,34 +2,36 @@
 
 Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
 
-## 📥 Download e Instalação
+## ⚠️ IMPORTANTE - EXECUTE COMO ADMINISTRADOR
 
-1. **Baixe todos os arquivos** desta pasta
-2. **Execute `INSTALAR_AGORA.bat` como Administrador**
-   - Clique com botão direito > "Executar como administrador"
-3. **Abra o Minecraft** antes de executar o instalador
-4. Siga as instruções na tela
+**TANTO O `BedrockLivre.exe` QUANTO O `INSTALAR_AGORA.bat` DEVEM SER EXECUTADOS COMO ADMINISTRADOR!**
+
+- Clique com **botão direito** no arquivo
+- Selecione **"Executar como administrador"**
+- Sem permissões de administrador, o programa não funcionará!
 
 ## 🚀 Como Usar
 
 ### Opção 1: Usando o GUI (Recomendado)
 
-1. Abra o Minecraft Bedrock Edition
-2. Execute `BedrockLivre.exe`
+1. **Abra o Minecraft Bedrock Edition** primeiro
+2. **Execute `BedrockLivre.exe` como Administrador**
+   - Clique com botão direito > "Executar como administrador"
 3. Clique no botão **"iniciar"**
 4. Pronto! O Minecraft está desbloqueado
 
 ### Opção 2: Usando o Script Manual
 
-1. Abra o Minecraft Bedrock Edition
-2. Execute `INSTALAR_AGORA.bat` como Administrador
+1. **Abra o Minecraft Bedrock Edition** primeiro
+2. **Execute `INSTALAR_AGORA.bat` como Administrador**
+   - Clique com botão direito > "Executar como administrador"
 3. Aguarde a instalação concluir
 
 ## ⚠️ Requisitos
 
 - Windows 10/11
 - Minecraft Bedrock Edition instalado
-- Permissões de Administrador
+- **Permissões de Administrador (OBRIGATÓRIO)**
 - Minecraft deve estar rodando durante a instalação
 
 ## 📋 O que este programa faz?
@@ -42,7 +44,7 @@ Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
 
 ### Erro: "DLL não encontrada"
 - Certifique-se de que todos os arquivos estão na mesma pasta
-- Execute como Administrador
+- **Execute como Administrador** (obrigatório!)
 
 ### Erro: "Minecraft não encontrado"
 - Verifique se o Minecraft está instalado
@@ -50,7 +52,7 @@ Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
 
 ### O desbloqueio não funciona
 - Certifique-se de que o Minecraft está rodando
-- Execute o instalador como Administrador
+- **Execute como Administrador** (obrigatório!)
 - Reinicie o Minecraft após a instalação
 
 ## 👤 Autor

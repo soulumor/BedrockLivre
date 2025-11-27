@@ -18,7 +18,7 @@ Desbloqueador para Minecraft Bedrock Edition (Windows) por SouLumor.
 2. **Execute `BedrockLivre.exe` como Administrador**
    - Clique com botão direito > "Executar como administrador"
 3. Clique no botão **"iniciar"**
-4. renicie o minicraft.
+4. renicie o minecraft.
 4. Pronto! O Minecraft está desbloqueado!
 
 ### Opção 2: Usando o Script Manual
